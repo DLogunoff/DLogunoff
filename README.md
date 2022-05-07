@@ -1,6 +1,6 @@
-<div align="center" id="layer1">
-<h3> Welcome home, ashen one <img src="https://raw.githubusercontent.com/kedow132/kedow132/master/bonfire.gif" width="30px"> </h3>
-</div>
+
+### Welcome home, ashen one <img src="https://raw.githubusercontent.com/kedow132/kedow132/master/bonfire.gif" width="30px">
+
 
 - 🔭 I’m currently working on Quiz web service for company, where I'm working
 - 🌱 I’m currently learning Django/DRF more deeply.
