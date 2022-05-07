@@ -8,7 +8,7 @@
 - 💬 Ask me about Python
 - 📫 How to reach me: tg @kedow132
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: fan of deathcore and souls-like games
+- ⚡ Fun fact: fan of deathcore, souls-like games and cats
 -------
 <p>
       My name is Danila, I'm a backend developer from Russia. 
