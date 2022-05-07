@@ -1,8 +1,6 @@
 <div align="center" id="layer1">
-<h3> Welcome home, ashen one <img src="https://raw.githubusercontent.com/kedow132/kedow132/master/wave.gif" width="30px"> </h3>
+<h3> Welcome home, ashen one <img src="https://raw.githubusercontent.com/kedow132/kedow132/master/bonfire.gif" width="30px"> </h3>
 </div>
-
-
 
 - 🔭 I’m currently working on Quiz web service for company, where I'm working
 - 🌱 I’m currently learning Django/DRF more deeply.
@@ -12,7 +10,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fan of deathcore and souls-like games
 
-### 
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/logunovdanila/)](https://www.linkedin.com/in/logunovdanila/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dlogunoff/)](https://www.instagram.com/dlogunoff/)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilalogunov13@gmail.com)](mailto:danilalogunov13@gmail.com)
 
 
 <!--START_SECTION:waka-->
