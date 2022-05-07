@@ -15,6 +15,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-danilalogunov13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilalogunov13@gmail.com)](mailto:danilalogunov13@gmail.com)
 [![VK Badge](https://img.shields.io/badge/-Данила&#32;Логунов-blue?style=flat-square&logo=VK&logoColor=white&link=https://vk.com/kedoow)](https://vk.com/kedoow)
 
+### Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Djangi](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
