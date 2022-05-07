@@ -23,6 +23,12 @@
 
 -------
 
+Public Contributions             |  Top Languages
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=DLogunoff&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DLogunoff&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
+
+-------
+
 <p>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
@@ -34,17 +40,18 @@
 </p>
 
 -------
+
+![Metrics](/github-metrics.svg)
+
+-------
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
--------
-
-![Metrics](/github-metrics.svg)
 
 
-Public Contributions             |  Top Languages
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=DLogunoff&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DLogunoff&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
+
+
+
