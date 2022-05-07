@@ -9,6 +9,11 @@
 - 📫 How to reach me: tg @kedow132
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fan of deathcore and souls-like games
+
+[![Linkedin Badge](https://img.shields.io/badge/-danilalogunov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/logunovdanila/)](https://www.linkedin.com/in/logunovdanila/)
+[![Instagram Badge](https://img.shields.io/badge/-dlogunoff-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dlogunoff/)](https://www.instagram.com/dlogunoff/)
+[![Gmail Badge](https://img.shields.io/badge/-danilalogunov13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilalogunov13@gmail.com)](mailto:danilalogunov13@gmail.com)
+[![VK Badge](https://img.shields.io/badge/-Данила&#32;Логунов-blue?style=flat-square&logo=VK&logoColor=white&link=https://vk.com/kedoow)](https://vk.com/kedoow)
 <p>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
