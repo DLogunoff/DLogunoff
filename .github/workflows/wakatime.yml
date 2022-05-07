@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: joe733/waka-readme@workshop
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: 388d770a-cb0b-433b-a3d0-a297cd14576f
           SHOW_TITLE: true
           SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
