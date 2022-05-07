@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/kedow132/kedow132/master/wave.gif" width="30px">
 
 
 - 🔭 I’m currently working on Quiz web service for company, where I'm working
