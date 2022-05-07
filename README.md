@@ -1,4 +1,7 @@
+<div align="center" id="layer1">
 ### Hi there <img src="https://raw.githubusercontent.com/kedow132/kedow132/master/wave.gif" width="30px">
+</div>
+
 
 
 - 🔭 I’m currently working on Quiz web service for company, where I'm working
@@ -9,6 +12,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fan of deathcore and souls-like games
 
+### 
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
