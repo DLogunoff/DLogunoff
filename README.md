@@ -19,7 +19,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![DRF](https://img.shields.io/badge/-DRF-black?style=flat-square&logo=DRF)
+![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-black?style=flat-square&logo=DjangoRestFramework)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
