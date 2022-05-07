@@ -9,7 +9,7 @@
 - 📫 How to reach me: tg @kedow132
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fan of deathcore and souls-like games
-
+<p>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
@@ -17,7 +17,7 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgre" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="45" height="55"/>
-
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
