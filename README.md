@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Quiz web service
+- 🔭 I’m currently working on Quiz web service for company, where I'm working
 - 🌱 I’m currently learning Django/DRF more deeply. Also planning to learn JS and one of the following: React, Angular, Vue.
 - 🤔 I’m looking for help with JS/React/Angular/Vue
 - 💬 Ask me about Python
