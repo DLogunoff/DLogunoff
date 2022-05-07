@@ -39,3 +39,4 @@
 
 -------
 
+![Metrics](/github-metrics.svg)
