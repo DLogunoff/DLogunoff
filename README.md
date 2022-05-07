@@ -1,5 +1,5 @@
 <div align="center" id="layer1">
-### Hi there <img src="https://raw.githubusercontent.com/kedow132/kedow132/master/wave.gif" width="30px">
+<h3> Hi there <img src="https://raw.githubusercontent.com/kedow132/kedow132/master/wave.gif" width="30px"> </h3>
 </div>
 
 
