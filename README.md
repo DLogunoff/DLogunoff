@@ -10,9 +10,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fan of deathcore and souls-like games
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/logunovdanila/)](https://www.linkedin.com/in/logunovdanila/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dlogunoff/)](https://www.instagram.com/dlogunoff/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilalogunov13@gmail.com)](mailto:danilalogunov13@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-danilalogunov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/logunovdanila/)](https://www.linkedin.com/in/logunovdanila/)
+[![Instagram Badge](https://img.shields.io/badge/-dlogunoff-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dlogunoff/)](https://www.instagram.com/dlogunoff/)
+[![Gmail Badge](https://img.shields.io/badge/-danilalogunov13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilalogunov13@gmail.com)](mailto:danilalogunov13@gmail.com)
 
 
 <!--START_SECTION:waka-->
