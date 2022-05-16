@@ -47,11 +47,11 @@ Public Contributions             |  Top Languages
 -------
 <!--START_SECTION:waka-->
 ```text
-Python         9 hrs 23 mins   ██████████████████████░░░   87.37 % 
-TOML           48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-YAML           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Shell Script   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Markdown       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Python         15 hrs 8 mins   ██████████████████▓░░░░░░   75.02 % 
+YAML           3 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+TOML           48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Shell Script   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Markdown       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
