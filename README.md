@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Django/DRF more deeply.
 - 🤔 I’m looking for help with JS/React/Angular/Vue
 - 💬 Ask me about Python
-- 📫 How to reach me: tg @kedow132
+- 📫 How to reach me: tg @DLogunoff
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fan of deathcore, souls-like games and cats
 -------
