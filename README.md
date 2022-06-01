@@ -1,5 +1,5 @@
 -------
-### Welcome home, ashen one <img src="https://raw.githubusercontent.com/DLogunoff/DLogunoff/master/bonfire.gif" width="3px"> 
+### Welcome home, ashen one <img src="https://raw.githubusercontent.com/DLogunoff/DLogunoff/master/bonfire.gif" width="30px" height="30px"> 
 
 
 - 🔭 I’m currently working on Quiz web service for company, where I'm working
