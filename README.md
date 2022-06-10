@@ -47,10 +47,10 @@ Public Contributions             |  Top Languages
 -------
 <!--START_SECTION:waka-->
 ```text
-Python           13 hrs 26 mins  ██████████████████▒░░░░░░   73.87 % 
-YAML             4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-XML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Python           14 hrs 32 mins  ██████████████████░░░░░░░   72.34 % 
+YAML             5 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.60 % 
+XML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 SVG              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 <!--END_SECTION:waka-->
