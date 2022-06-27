@@ -47,11 +47,11 @@ Public Contributions             |  Top Languages
 -------
 <!--START_SECTION:waka-->
 ```text
-Python     13 hrs          ██████████████████████▒░░   89.22 % 
-Markdown   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-textmate   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Docker     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-YAML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python     8 hrs 17 mins   █████████████████████▓░░░   86.13 % 
+textmate   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Docker     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+YAML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 <!--END_SECTION:waka-->
 
