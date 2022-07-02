@@ -47,8 +47,7 @@ Public Contributions             |  Top Languages
 -------
 <!--START_SECTION:waka-->
 ```text
-Python     29 mins         ███████████████████████▓░   95.33 % 
-Text       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Python     9 mins          ██████████████████████▓░░   90.98 % 
 ```
 <!--END_SECTION:waka-->
 
