@@ -2,8 +2,8 @@
 ### Welcome home, ashen one <img src="https://raw.githubusercontent.com/DLogunoff/DLogunoff/master/bonfire.gif" width="30px" height="30px"> 
 
 
-- 🔭 I’m currently working in some company
-- 🌱 I’m currently learning Django/DRF more deeply
+- 🔭 I’m currently working in a great company!
+- 🌱 I’m currently learning Django/OOP
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about Python
 - 📫 How to reach me: tg @DLogunoff
