@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working in a great company!
-- 🌱 I’m currently learning Django/OOP
-- 🤔 I’m looking for help with JS
+- 🌱 I’m currently learning FastAPI
+- 🤔 I’m looking for help with GoLang
 - 💬 Ask me about Python
 - 📫 How to reach me: tg @DLogunoff
 - 😄 Pronouns: he/him
